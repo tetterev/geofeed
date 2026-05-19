@@ -1,0 +1,15 @@
+# Python virtual environments
+.venv/
+
+# Unpacked Office documents (build artifacts)
+allianz_unpacked/
+
+# Office lock files
+~$*
+
+# Claude session data
+.claude/
+CLAUDE.md
+
+# internal docs
+docs/

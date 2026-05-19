@@ -1,0 +1,12 @@
+# Geofeed https://raw.githubusercontent.com/Allianz/geofeed/main/geofeed.csv
+# This file follows the Self-Published IP Geolocation Feeds format defined in RFC 8805.
+# https://www.rfc-editor.org/rfc/rfc8805
+#
+# Maintained by: Allianz Technology SE — Network Engineering
+# License: CC0 1.0 Universal (Public Domain)
+#
+# Format: ip_prefix,alpha2code,region,city,postal_code
+#
+# ip_prefix,alpha2code,region,city,postal_code
+194.127.1.0/24,DE,,FRA
+194.127.11.0/24,FR,,PAR

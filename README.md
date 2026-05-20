@@ -12,7 +12,7 @@ Inaccurate IP-to-location mappings cause suboptimal routing and degraded user ex
 
 The geofeed is published at the following stable URL:
 
-```
+``` txt
 https://raw.githubusercontent.com/Allianz/geofeed/main/geofeed.csv
 ```
 
@@ -23,7 +23,7 @@ Geolocation providers can fetch and ingest this file directly.
 The `geofeed.csv` file follows the RFC 8805 format: a CSV file with the following five columns.
 
 | Column | Description | Example |
-|---|---|---|
+| --- | --- | --- |
 | `ip_prefix` | CIDR-notation IPv4 or IPv6 prefix | `203.0.113.0/24` |
 | `alpha2code` | ISO 3166-1 alpha-2 country code | `DE` |
 | `region` | Full ISO 3166-2 region code (optional) | `DE-BY` |
@@ -38,7 +38,7 @@ To automatically discover this feed, the canonical URL is registered in the WHOI
 
 You can verify discovery by querying the WHOIS record for any Allianz IP prefix and looking for:
 
-```
+``` txt
 remarks: Geofeed https://raw.githubusercontent.com/Allianz/geofeed/main/geofeed.csv
 ```
 
@@ -54,7 +54,7 @@ Issues are reviewed by the Allianz Network Engineering team.
 
 ## Maintenance
 
-This feed is maintained by **Allianz Technology SE — Network Engineering**. Only team members can submit changes to `geofeed.csv`. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+This feed is maintained by **Allianz Technology SE — IP Services Team**. Only team members can submit changes to `geofeed.csv`. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 

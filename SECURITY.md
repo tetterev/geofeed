@@ -10,11 +10,7 @@ If you identify an IP prefix that is mapped to an incorrect geographic location,
 
 ## Sensitive Reports
 
-If your concern involves information that should not be disclosed publicly — for example, questions about specific internal IP ranges or allocation details — please contact the Allianz network security team directly:
-
-**Email:** network-security@allianz.com
-
-Please include "Geofeed" in the subject line. We will respond within five business days.
+If your concern involves information that should not be disclosed publicly — for example, questions about specific internal IP ranges or allocation details — please raise an issue.
 
 ## Out of Scope
 

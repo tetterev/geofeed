@@ -2,7 +2,7 @@
 
 ## Who Maintains This Feed
 
-The `geofeed.csv` file is maintained exclusively by **Allianz Technology SE — Network Engineering**. Only members of the `@Allianz/network-team` GitHub team can submit changes to the feed data. This ensures the geofeed remains authoritative and accurate.
+The `geofeed.csv` file is maintained exclusively by **Allianz Technology SE — IP Services Team**. This ensures the geofeed remains authoritative and accurate.
 
 ## Reporting Incorrect or Missing Mappings
 
@@ -15,12 +15,4 @@ To help us resolve the report efficiently, please include:
 - The correct location (country, region, city) with supporting evidence (e.g. RIR allocation data, official documentation)
 - Your contact information (optional, for follow-up)
 
-The network team reviews incoming reports and updates the feed as appropriate.
-
-## Pull Requests
-
-Direct pull requests to modify `geofeed.csv` from outside the network team will not be accepted. If you have a correction, please open an issue instead.
-
-Pull requests for documentation improvements (README, CONTRIBUTING, SECURITY) are welcome.
-
-All changes to `geofeed.csv` require a review from `@Allianz/network-team` as enforced by [CODEOWNERS](.github/CODEOWNERS).
+The ip services team reviews incoming reports and updates the feed as appropriate.

@@ -15,4 +15,4 @@ To help us resolve the report efficiently, please include:
 - The correct location (country, region, city) with supporting evidence (e.g. RIR allocation data, official documentation)
 - Your contact information (optional, for follow-up)
 
-The ip services team reviews incoming reports and updates the feed as appropriate.
+The IP Services Team reviews incoming reports and updates the feed as appropriate.

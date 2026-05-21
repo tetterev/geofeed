@@ -1,4 +1,4 @@
-# Changes to the geofeed data file require review from the Allianz Network Engineering team.
+# Changes to the geofeed data file require review from the Allianz IP Services team.
 # Adjust the team slug below to match the actual GitHub team name in the Allianz organization.
 
-/geofeed.csv @Allianz/network-team
+/geofeed.csv @Allianz/AGN-IPSERVICES-GEOFEED-MGMT
